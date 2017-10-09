@@ -15,5 +15,7 @@ Please write this program by your favourite progamming languague, however we pre
 ## NOTES:
 
  - Googling is allowed! :poop: 
- - Small challenge: No mouse if you dare :muscle:
+ - Small challenge: **No mouse if you dare :muscle:**
+ 
+ ![Troll](https://camo.githubusercontent.com/4601bfe1d3e6746e26c7494ad76bbcc0a6486a9f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f34644c67646b514d326b6643672f67697068792e676966)
  
