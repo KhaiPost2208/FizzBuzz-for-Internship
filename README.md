@@ -19,3 +19,24 @@ Please write this program by your favourite progamming languague, however we pre
  
  ![Troll](https://camo.githubusercontent.com/4601bfe1d3e6746e26c7494ad76bbcc0a6486a9f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f34644c67646b514d326b6643672f67697068792e676966)
  
+// Nguyễn Đăng Khải
+
+for (i = 1; i <= 100; i++) {
+    console.log(dem(i))
+    }    
+function dem (so) {
+    if (so % 3 === 0 && so % 5 == 0) {
+    return 'Sphinx Software'
+    }
+     else if (so % 3 === 0) {
+    return 'Sphinx'
+    } 
+    else if (so % 5 === 0) {
+    return 'Software'
+    }
+    return so
+    }
+    for (i = 1; i <= 100; i++) {
+        console.log(dem(i))
+        }
+    
